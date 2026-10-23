@@ -1,5 +1,5 @@
-# robots.txt for Resume Forge
-# Free online resume builder — https://theadvay.github.io/resume-forge/
+# robots.txt for Resume Builder
+# Free online resume builder — https://theadvay.github.io/resume-builder/
 
 User-agent: *
 Allow: /
@@ -11,4 +11,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://theadvay.github.io/resume-forge/sitemap.xml
+Sitemap: https://theadvay.github.io/resume-builder/sitemap.xml

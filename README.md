@@ -1,16 +1,16 @@
-# Resume Forge
+# Resume Builder
 
 > A free, fully responsive online resume builder with a live preview and one-click PDF export. No sign-up, no watermark, no server — everything runs in your browser.
 
-**Live demo:** https://theadvay.github.io/resume-forge/
+**Live demo:** https://theadvay.github.io/resume-builder/
 
-![Resume Forge — free resume builder with live preview](og-image.png)
+![Resume Builder — free resume builder with live preview](og-image.png)
 
 ---
 
 ## What it is
 
-Resume Forge is a single-page web app that helps you build a clean, professional, print-ready A4 resume. You type your details into the editor on the left, the live preview on the right updates instantly, and when you are happy you export it as a PDF straight from the browser.
+Resume Builder is a single-page web app that helps you build a clean, professional, print-ready A4 resume. You type your details into the editor on the left, the live preview on the right updates instantly, and when you are happy you export it as a PDF straight from the browser.
 
 It is built with plain HTML, CSS and JavaScript — no frameworks, no build step, no dependencies. Drop it on any static host and it just works.
 
@@ -41,8 +41,8 @@ No installation or build step is required. Because it is a static site, any of t
 
 ```bash
 # Clone
-git clone https://github.com/theadvay/resume-forge.git
-cd resume-forge
+git clone https://github.com/theadvay/resume-builder.git
+cd resume-builder
 
 # Open directly…
 open index.html          # macOS
@@ -63,7 +63,7 @@ The site is plain static files, so it deploys anywhere:
 ## Project structure
 
 ```
-resume-forge/
+resume-builder/
 ├── index.html            # The whole app — markup, styles and logic
 ├── manifest.webmanifest  # PWA metadata
 ├── favicon.svg           # Vector favicon
