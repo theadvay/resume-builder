@@ -17,8 +17,9 @@ It is built with plain HTML, CSS and JavaScript — no frameworks, no build step
 ## Features
 
 - **Live preview** — every keystroke is reflected on an A4 sheet in real time.
-- **Two templates** — *Classic* (single column, timeless) and *Modern* (coloured sidebar).
-- **Five accent colours** — navy, teal, cranberry, charcoal and forest.
+- **20 templates** — Classic, Modern, Minimal, Elegant, Compact, Bold, Timeline, Banner, Right Rail, Two Column, Academic, Creative, Corporate, Mono, Infographic, Swiss, Photo Left, Gradient, Dark Sidebar and Spotlight.
+- **Profile photo upload** — optional, resized in the browser before it is stored.
+- **Eight accent colours** and **three font styles** (Sans, Serif, Mono).
 - **One-click PDF export** — a print stylesheet strips away the UI and prints only the resume.
 - **Auto-save** — your work is stored in the browser's `localStorage`, so you can close the tab and come back later.
 - **100% private** — nothing is ever uploaded; your data never leaves your device.
@@ -30,7 +31,7 @@ It is built with plain HTML, CSS and JavaScript — no frameworks, no build step
 
 1. Open the site (or `index.html`) in any modern browser.
 2. Fill in your details — name, contact, summary, experience, education, projects, skills and certifications.
-3. Pick a template and an accent colour.
+3. Pick one of the 20 templates, an accent colour and a font — and upload a photo if you like.
 4. Click **Save as PDF**, then choose **Save as PDF** as the print destination.
 
 > **Tip:** Keep it to one or two pages, start every bullet with an action verb, and quantify results wherever you can. Sections you leave empty never appear in the resume.
